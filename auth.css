@@ -1,0 +1,17 @@
+/* Personalización extra sobre Bootstrap */
+body {
+  background: #f5f8fa;
+}
+
+.card {
+  border-radius: 100%;
+}
+
+.card-tittle {
+  color: white;
+}
+
+.header {
+  height: 60px;        /* defines la altura total */
+  padding: 10px;       /* espacio interno */
+}

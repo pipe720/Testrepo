@@ -1,0 +1,16 @@
+body {
+  background: #f5f8fa;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.card-body h2 {
+  font-weight: bold;
+  color: #dc3545; /* Rojo Bootstrap */
+}
+
+button {
+  font-weight: bold;
+}

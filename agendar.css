@@ -1,0 +1,28 @@
+/* Estilos de los Box */
+.box {
+  width: 90px;
+  height: 90px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  cursor: pointer;
+  color: white;
+}
+
+.disponible {
+  background-color: #28a745; /* verde */
+}
+
+.ocupado {
+  background-color: #dc3545; /* rojo */
+}
+
+.mantencion {
+  background-color: #fd7e14; /* naranja */
+}
+
+.box:hover {
+  opacity: 0.8;
+}
